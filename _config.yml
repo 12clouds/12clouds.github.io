@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : 12cloud
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://progvtblogo.asanatsa.cc/_next/image?url=%2FDownloadedLogos%2FKubernetes%2FKubernetes.png&w=640&q=75 # path or url of avatar image (square)
   bio       : A student of database.
   email     : lzy12@bupt.cn
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
